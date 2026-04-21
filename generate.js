@@ -37,6 +37,9 @@ function fallbackMeta(name) {
   return { bg: '#1a1a2e', bar: '#7cffd4', tag: 'other' };
 }
 
+// Repos ignorados na contagem de linguagens
+const EXCLUDED_REPOS = [];
+
 async function main() {
   // Busca repos
   const repos = await get(`https://api.github.com/users/${USERNAME}/repos?per_page=100`);
@@ -45,6 +48,7 @@ async function main() {
   const totals = {};
   for (const repo of repos) {
     if (repo.fork) continue;
+    if (EXCLUDED_REPOS.includes(repo.name)) continue;
     const langs = await get(repo.languages_url);
     for (const [lang, bytes] of Object.entries(langs)) {
       totals[lang] = (totals[lang] || 0) + bytes;
