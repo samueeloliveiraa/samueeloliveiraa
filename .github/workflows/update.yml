@@ -1,0 +1,32 @@
+name: Update Languages SVG
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # roda todo dia à meia-noite
+  push:
+    branches: [main]
+  workflow_dispatch:       # permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Generate SVG
+        run: node generate.js
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add languages.svg
+          git diff --cached --quiet || git commit -m "chore: update languages.svg"
+          git push
