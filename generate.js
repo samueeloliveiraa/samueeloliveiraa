@@ -38,7 +38,9 @@ function fallbackMeta(name) {
 }
 
 // Repos ignorados na contagem de linguagens
-const EXCLUDED_REPOS = [];
+const EXCLUDED_REPOS = [
+  'software-project', // contém deps/arquivos gerados que distorcem a contagem
+];
 
 async function main() {
   // Busca repos
