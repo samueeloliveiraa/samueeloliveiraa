@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="620" height="722" viewBox="0 0 620 722">
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="722" viewBox="0 0 780 722">
   <defs>
     <style>@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&amp;family=Syne:wght@800&amp;display=swap');</style>
     <radialGradient id="g1" cx="100%" cy="0%" r="50%">
@@ -12,9 +12,9 @@
   </defs>
 
   <!-- bg -->
-  <rect width="620" height="722" rx="16" fill="#12151f" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
-  <rect width="620" height="722" rx="16" fill="url(#g1)"/>
-  <rect width="620" height="722" rx="16" fill="url(#g2)"/>
+  <rect width="780" height="722" rx="16" fill="#12151f" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <rect width="780" height="722" rx="16" fill="url(#g1)"/>
+  <rect width="780" height="722" rx="16" fill="url(#g2)"/>
 
   <!-- header -->
   <text x="28" y="34" font-family="'JetBrains Mono',monospace" font-size="9" font-weight="600" fill="#7cffd4" letter-spacing="3">// STACK</text>
@@ -22,7 +22,7 @@
   <text x="28" y="76" font-family="'JetBrains Mono',monospace" font-size="10" fill="#4a5068">@samsamchi · Software Developer</text>
 
   <!-- dot grid -->
-  <circle cx="589" cy="14" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="579" cy="14" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="569" cy="14" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="559" cy="14" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="589" cy="24" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="579" cy="24" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="569" cy="24" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="559" cy="24" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="589" cy="34" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="579" cy="34" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="569" cy="34" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="559" cy="34" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="589" cy="44" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="579" cy="44" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="569" cy="44" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="559" cy="44" r="2.5" fill="#7cffd4" opacity="0.18"/>
+  <circle cx="749" cy="14" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="739" cy="14" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="729" cy="14" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="719" cy="14" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="749" cy="24" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="739" cy="24" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="729" cy="24" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="719" cy="24" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="749" cy="34" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="739" cy="34" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="729" cy="34" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="719" cy="34" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="749" cy="44" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="739" cy="44" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="729" cy="44" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="719" cy="44" r="2.5" fill="#7cffd4" opacity="0.18"/>
 
   <!-- rows -->
   
@@ -41,12 +41,12 @@
         <text x="48.75" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">WEB</text>
 
         <!-- pct -->
-        <text x="564" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">36%</text>
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">36%</text>
 
         <!-- bar track -->
-        <rect x="0" y="38" width="564" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
+        <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
         <!-- bar fill -->
-        <rect x="0" y="38" width="203" height="4" rx="2" fill="#F0DB4F"/>
+        <rect x="0" y="38" width="261" height="4" rx="2" fill="#F0DB4F"/>
       </g>
     
       <!-- row TypeScript -->
@@ -64,12 +64,12 @@
         <text x="52" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">MAIN</text>
 
         <!-- pct -->
-        <text x="564" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">27%</text>
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">27%</text>
 
         <!-- bar track -->
-        <rect x="0" y="38" width="564" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
+        <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
         <!-- bar fill -->
-        <rect x="0" y="38" width="152" height="4" rx="2" fill="#007acc"/>
+        <rect x="0" y="38" width="195" height="4" rx="2" fill="#007acc"/>
       </g>
     
       <!-- row C -->
@@ -87,12 +87,12 @@
         <text x="61.75" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">SYSTEMS</text>
 
         <!-- pct -->
-        <text x="564" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">27%</text>
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">27%</text>
 
         <!-- bar track -->
-        <rect x="0" y="38" width="564" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
+        <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
         <!-- bar fill -->
-        <rect x="0" y="38" width="152" height="4" rx="2" fill="#659ad3"/>
+        <rect x="0" y="38" width="195" height="4" rx="2" fill="#659ad3"/>
       </g>
     
       <!-- row HTML -->
@@ -110,12 +110,12 @@
         <text x="48.75" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">WEB</text>
 
         <!-- pct -->
-        <text x="564" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">27%</text>
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">27%</text>
 
         <!-- bar track -->
-        <rect x="0" y="38" width="564" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
+        <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
         <!-- bar fill -->
-        <rect x="0" y="38" width="152" height="4" rx="2" fill="#E34F26"/>
+        <rect x="0" y="38" width="195" height="4" rx="2" fill="#E34F26"/>
       </g>
     
       <!-- row Java -->
@@ -133,12 +133,12 @@
         <text x="48.75" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">OOP</text>
 
         <!-- pct -->
-        <text x="564" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">9%</text>
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">9%</text>
 
         <!-- bar track -->
-        <rect x="0" y="38" width="564" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
+        <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
         <!-- bar fill -->
-        <rect x="0" y="38" width="51" height="4" rx="2" fill="#f89820"/>
+        <rect x="0" y="38" width="65" height="4" rx="2" fill="#f89820"/>
       </g>
     
       <!-- row Python -->
@@ -156,12 +156,12 @@
         <text x="61.75" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">BACKEND</text>
 
         <!-- pct -->
-        <text x="564" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">9%</text>
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">9%</text>
 
         <!-- bar track -->
-        <rect x="0" y="38" width="564" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
+        <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
         <!-- bar fill -->
-        <rect x="0" y="38" width="51" height="4" rx="2" fill="#3572A5"/>
+        <rect x="0" y="38" width="65" height="4" rx="2" fill="#3572A5"/>
       </g>
     
       <!-- row MATLAB -->
@@ -179,12 +179,12 @@
         <text x="52" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">MATH</text>
 
         <!-- pct -->
-        <text x="564" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">9%</text>
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">9%</text>
 
         <!-- bar track -->
-        <rect x="0" y="38" width="564" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
+        <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
         <!-- bar fill -->
-        <rect x="0" y="38" width="51" height="4" rx="2" fill="#0076A8"/>
+        <rect x="0" y="38" width="65" height="4" rx="2" fill="#0076A8"/>
       </g>
     
       <!-- row PLpgSQL -->
@@ -202,12 +202,12 @@
         <text x="45.5" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">DB</text>
 
         <!-- pct -->
-        <text x="564" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">9%</text>
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">9%</text>
 
         <!-- bar track -->
-        <rect x="0" y="38" width="564" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
+        <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
         <!-- bar fill -->
-        <rect x="0" y="38" width="51" height="4" rx="2" fill="#4169E1"/>
+        <rect x="0" y="38" width="65" height="4" rx="2" fill="#4169E1"/>
       </g>
     
       <!-- row PHP -->
@@ -225,12 +225,12 @@
         <text x="48.75" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">WEB</text>
 
         <!-- pct -->
-        <text x="564" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">9%</text>
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">9%</text>
 
         <!-- bar track -->
-        <rect x="0" y="38" width="564" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
+        <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
         <!-- bar fill -->
-        <rect x="0" y="38" width="51" height="4" rx="2" fill="#777BB4"/>
+        <rect x="0" y="38" width="65" height="4" rx="2" fill="#777BB4"/>
       </g>
     
       <!-- row Shell -->
@@ -248,12 +248,12 @@
         <text x="55.25" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">SHELL</text>
 
         <!-- pct -->
-        <text x="564" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">9%</text>
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">9%</text>
 
         <!-- bar track -->
-        <rect x="0" y="38" width="564" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
+        <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
         <!-- bar fill -->
-        <rect x="0" y="38" width="51" height="4" rx="2" fill="#4EAA25"/>
+        <rect x="0" y="38" width="65" height="4" rx="2" fill="#4EAA25"/>
       </g>
     
       <!-- row Dockerfile -->
@@ -271,20 +271,20 @@
         <text x="58.5" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">DEVOPS</text>
 
         <!-- pct -->
-        <text x="564" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">9%</text>
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">9%</text>
 
         <!-- bar track -->
-        <rect x="0" y="38" width="564" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
+        <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
         <!-- bar fill -->
-        <rect x="0" y="38" width="51" height="4" rx="2" fill="#2496ED"/>
+        <rect x="0" y="38" width="65" height="4" rx="2" fill="#2496ED"/>
       </g>
     
 
   <!-- divider -->
-  <line x1="28" y1="678" x2="592" y2="678" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <line x1="28" y1="678" x2="752" y2="678" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
 
   <!-- footer -->
   <circle cx="33" cy="700" r="3" fill="#7cffd4" opacity="0.9"/>
   <text x="42" y="704" font-family="'JetBrains Mono',monospace" font-size="9" fill="#4a5068">603 contributions · 2026</text>
-  <text x="592" y="704" font-family="'JetBrains Mono',monospace" font-size="9" fill="#7cffd4" text-anchor="end" opacity="0.7">github/samsamchi →</text>
+  <text x="752" y="704" font-family="'JetBrains Mono',monospace" font-size="9" fill="#7cffd4" text-anchor="end" opacity="0.7">github/samsamchi →</text>
 </svg>
