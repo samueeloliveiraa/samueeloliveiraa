@@ -282,16 +282,16 @@
       <!-- row CMake -->
       <g transform="translate(28, 662)">
         <!-- icon bg -->
-        <rect x="0" y="6" width="26" height="26" rx="7" fill="#1a1a2e"/>
-        <svg x="0" y="6" width="26" height="26" viewBox="0 0 128 128"></svg>
-        <text x="13" y="23" font-family="monospace" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">CM</text>
+        <rect x="0" y="6" width="26" height="26" rx="7" fill="#0a0f1a"/>
+        <svg x="0" y="6" width="26" height="26" viewBox="0 0 128 128"><g><polygon fill="#CC2929" points="64,4 32,62 96,62"/><polygon fill="#2A9A2A" points="32,62 4,120 64,120"/><polygon fill="#2929CC" points="96,62 64,120 124,120"/></g></svg>
+        
 
         <!-- lang name -->
         <text x="34" y="20" font-family="'JetBrains Mono',monospace" font-size="12" font-weight="600" fill="#e8eaf0">CMake</text>
 
         <!-- tag -->
         <rect x="34" y="24" width="42.5" height="12" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
-        <text x="55.25" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">OTHER</text>
+        <text x="55.25" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">BUILD</text>
 
         <!-- pct -->
         <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">8%</text>
@@ -299,7 +299,7 @@
         <!-- bar track -->
         <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
         <!-- bar fill -->
-        <rect x="0" y="38" width="58" height="4" rx="2" fill="#7cffd4"/>
+        <rect x="0" y="38" width="58" height="4" rx="2" fill="#064F8C"/>
       </g>
     
 
