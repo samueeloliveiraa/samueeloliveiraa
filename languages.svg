@@ -19,7 +19,7 @@
   <!-- header -->
   <text x="28" y="34" font-family="'JetBrains Mono',monospace" font-size="9" font-weight="600" fill="#7cffd4" letter-spacing="3">// STACK</text>
   <text x="28" y="58" font-family="'Syne',sans-serif" font-size="20" font-weight="800" fill="#e8eaf0">Samuel Oliveira</text>
-  <text x="28" y="76" font-family="'JetBrains Mono',monospace" font-size="10" fill="#4a5068">@samsamchi · Software Developer</text>
+  <text x="28" y="76" font-family="'JetBrains Mono',monospace" font-size="10" fill="#4a5068">@samueeloliveiraa · Software Developer</text>
 
   <!-- dot grid -->
   <circle cx="749" cy="14" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="739" cy="14" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="729" cy="14" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="719" cy="14" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="749" cy="24" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="739" cy="24" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="729" cy="24" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="719" cy="24" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="749" cy="34" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="739" cy="34" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="729" cy="34" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="719" cy="34" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="749" cy="44" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="739" cy="44" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="729" cy="44" r="2.5" fill="#7cffd4" opacity="0.18"/><circle cx="719" cy="44" r="2.5" fill="#7cffd4" opacity="0.18"/>
@@ -286,5 +286,5 @@
   <!-- footer -->
   <circle cx="33" cy="700" r="3" fill="#7cffd4" opacity="0.9"/>
   <text x="42" y="704" font-family="'JetBrains Mono',monospace" font-size="9" fill="#4a5068">603 contributions · 2026</text>
-  <text x="752" y="704" font-family="'JetBrains Mono',monospace" font-size="9" fill="#7cffd4" text-anchor="end" opacity="0.7">github/samsamchi →</text>
+  <text x="752" y="704" font-family="'JetBrains Mono',monospace" font-size="9" fill="#7cffd4" text-anchor="end" opacity="0.7">github/samueeloliveiraa →</text>
 </svg>
