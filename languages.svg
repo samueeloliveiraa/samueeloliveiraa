@@ -41,12 +41,12 @@
         <text x="61.75" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">SYSTEMS</text>
 
         <!-- pct -->
-        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">33%</text>
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">31%</text>
 
         <!-- bar track -->
         <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
         <!-- bar fill -->
-        <rect x="0" y="38" width="239" height="4" rx="2" fill="#659ad3"/>
+        <rect x="0" y="38" width="224" height="4" rx="2" fill="#659ad3"/>
       </g>
     
       <!-- row JavaScript -->
@@ -64,12 +64,12 @@
         <text x="48.75" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">WEB</text>
 
         <!-- pct -->
-        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">27%</text>
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">25%</text>
 
         <!-- bar track -->
         <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
         <!-- bar fill -->
-        <rect x="0" y="38" width="195" height="4" rx="2" fill="#F0DB4F"/>
+        <rect x="0" y="38" width="181" height="4" rx="2" fill="#F0DB4F"/>
       </g>
     
       <!-- row TypeScript -->
@@ -87,12 +87,12 @@
         <text x="52" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">MAIN</text>
 
         <!-- pct -->
-        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">20%</text>
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">19%</text>
 
         <!-- bar track -->
         <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
         <!-- bar fill -->
-        <rect x="0" y="38" width="145" height="4" rx="2" fill="#007acc"/>
+        <rect x="0" y="38" width="138" height="4" rx="2" fill="#007acc"/>
       </g>
     
       <!-- row HTML -->
@@ -110,39 +110,16 @@
         <text x="48.75" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">WEB</text>
 
         <!-- pct -->
-        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">20%</text>
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">19%</text>
 
         <!-- bar track -->
         <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
         <!-- bar fill -->
-        <rect x="0" y="38" width="145" height="4" rx="2" fill="#E34F26"/>
-      </g>
-    
-      <!-- row Java -->
-      <g transform="translate(28, 298)">
-        <!-- icon bg -->
-        <rect x="0" y="6" width="26" height="26" rx="7" fill="#1a1010"/>
-        <svg x="0" y="6" width="26" height="26" viewBox="0 0 128 128"><g><path fill="#0074BD" d="M47.617 98.12s-4.767 2.774 3.397 3.71c9.892 1.13 14.947.968 25.845-1.092 0 0 2.871 1.795 6.873 3.351-24.439 10.47-55.308-.607-36.115-5.969zM44.629 84.455s-5.348 3.959 2.823 4.805c10.567 1.091 18.91 1.18 33.354-1.6 0 0 1.993 2.025 5.132 3.131-29.542 8.64-62.446.68-41.309-6.336z"/><path fill="#EA2D2E" d="M69.802 61.271c6.025 6.935-1.58 13.17-1.58 13.17s15.289-7.891 8.269-17.777c-6.559-9.215-11.587-13.792 15.635-29.58 0 .001-42.731 10.67-22.324 34.187z"/><path fill="#0074BD" d="M102.123 108.229s3.529 2.91-3.888 5.159c-14.102 4.272-58.706 5.56-71.094.171-4.451-1.938 3.899-4.625 6.526-5.192 2.739-.593 4.303-.485 4.303-.485-4.953-3.487-32.013 6.85-13.743 9.815 49.821 8.076 90.817-3.637 77.896-9.468zM49.921 70.294s-22.686 5.389-8.033 7.348c6.188.828 18.518.638 30.011-.326 9.386-.789 18.813-2.474 18.813-2.474s-3.308 1.419-5.704 3.053c-23.042 6.061-67.544 3.238-54.731-2.958 10.832-5.239 19.644-4.643 19.644-4.643zM90.609 93.041c23.421-12.167 12.591-23.86 5.032-22.285-1.848.385-2.677.72-2.677.72s.688-1.079 2-1.543c14.953-5.255 26.451 15.503-4.823 23.725 0-.002.359-.327.468-.617z"/><path fill="#EA2D2E" d="M76.491 1.587S89.459 14.563 64.188 34.51c-20.266 16.006-4.621 25.13-.007 35.559-11.831-10.673-20.509-20.07-14.688-28.815C58.041 28.42 81.722 22.195 76.491 1.587z"/><path fill="#0074BD" d="M52.214 126.021c22.476 1.437 57-.8 57.817-11.436 0 0-1.571 4.032-18.577 7.231-19.186 3.612-42.854 3.191-56.887.874 0 .001 2.875 2.381 17.647 3.331z"/></g></svg>
-        
-
-        <!-- lang name -->
-        <text x="34" y="20" font-family="'JetBrains Mono',monospace" font-size="12" font-weight="600" fill="#e8eaf0">Java</text>
-
-        <!-- tag -->
-        <rect x="34" y="24" width="29.5" height="12" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
-        <text x="48.75" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">OOP</text>
-
-        <!-- pct -->
-        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">7%</text>
-
-        <!-- bar track -->
-        <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
-        <!-- bar fill -->
-        <rect x="0" y="38" width="51" height="4" rx="2" fill="#f89820"/>
+        <rect x="0" y="38" width="138" height="4" rx="2" fill="#E34F26"/>
       </g>
     
       <!-- row Python -->
-      <g transform="translate(28, 350)">
+      <g transform="translate(28, 298)">
         <!-- icon bg -->
         <rect x="0" y="6" width="26" height="26" rx="7" fill="#0d1a2a"/>
         <svg x="0" y="6" width="26" height="26" viewBox="0 0 128 128"><g><path fill="#3572A5" d="M63.391 1.988c-4.222.02-8.252.379-11.8 1.007-10.45 1.846-12.346 5.71-12.346 12.837v9.411h24.693v3.137H29.977c-7.176 0-13.46 4.313-15.426 12.521-2.268 9.405-2.368 15.275 0 25.096 1.755 7.311 5.947 12.519 13.124 12.519h8.491V67.234c0-8.151 7.051-15.34 15.426-15.34h24.665c6.866 0 12.346-5.654 12.346-12.548V15.833c0-6.693-5.646-11.72-12.346-12.837-4.244-.706-8.645-1.027-12.866-1.008zM50.037 9.557c2.55 0 4.634 2.117 4.634 4.721 0 2.593-2.083 4.69-4.634 4.69-2.56 0-4.633-2.097-4.633-4.69-.001-2.604 2.073-4.721 4.633-4.721z"/><path fill="#FFD43B" d="M91.682 28.38v10.966c0 8.5-7.208 15.655-15.426 15.655H51.591c-6.756 0-12.346 5.783-12.346 12.548v23.515c0 6.693 5.818 10.628 12.346 12.547 7.816 2.297 15.312 2.713 24.665 0 6.216-1.801 12.346-5.423 12.346-12.547v-9.412H63.938v-3.138h37.012c7.176 0 9.852-5.005 12.348-12.519 2.578-7.735 2.467-15.174 0-25.096-1.774-7.145-5.161-12.521-12.348-12.521h-9.268zM77.809 87.927c2.561 0 4.634 2.097 4.634 4.692 0 2.602-2.074 4.719-4.634 4.719-2.55 0-4.633-2.117-4.633-4.719 0-2.595 2.083-4.692 4.633-4.692z"/></g></svg>
@@ -156,85 +133,16 @@
         <text x="61.75" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">BACKEND</text>
 
         <!-- pct -->
-        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">7%</text>
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">13%</text>
 
         <!-- bar track -->
         <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
         <!-- bar fill -->
-        <rect x="0" y="38" width="51" height="4" rx="2" fill="#3572A5"/>
-      </g>
-    
-      <!-- row MATLAB -->
-      <g transform="translate(28, 402)">
-        <!-- icon bg -->
-        <rect x="0" y="6" width="26" height="26" rx="7" fill="#001528"/>
-        <svg x="0" y="6" width="26" height="26" viewBox="0 0 128 128"><g><path fill="#4499dd" d="M8 70.2l31.879-12.88a82.62 82.62 0 0110.883-11.8c2.636-1.399 7.597-.641 16.68-11.918 8.796-11 11.597-20.403 15.718-20.403 6.52 0 11.32 14.082 18.602 35.403A461.75 461.75 0 00120 96.48c-7.602-7.082-14.078-14.718-21.48-14.52-6.88.161-14.52 8.321-22.88 18.802C69 109.16 60.2 114.922 56.763 114.8c0 0-8.883-25.121-16.32-29.2a10.563 10.563 0 00-9.563.797L8 70.16zm0 0"/><path fill="#aaddee" d="M79.2 16.078c-2.68 3.602-5.92 10.203-11.76 17.524-9.082 11.277-14 10.52-16.68 11.918a78.673 78.673 0 00-10.882 11.8l13.2 9.64C64.28 51.68 70.28 35.122 74.96 24.399a54.649 54.649 0 014.238-8.32zm0 0"/><path fill="#e87030" d="M83.2 13.2c-8.72 0-14.68 45.921-46.88 71.562 9.04-1.48 16.88 20.957 20.48 30.039 16-2.723 28.802-33.32 41.72-32.84 7.402.277 13.878 7.437 21.48 14.52C102.64 60 94.52 13.198 83.2 13.198zm0 0"/></g></svg>
-        
-
-        <!-- lang name -->
-        <text x="34" y="20" font-family="'JetBrains Mono',monospace" font-size="12" font-weight="600" fill="#e8eaf0">MATLAB</text>
-
-        <!-- tag -->
-        <rect x="34" y="24" width="36" height="12" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
-        <text x="52" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">MATH</text>
-
-        <!-- pct -->
-        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">7%</text>
-
-        <!-- bar track -->
-        <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
-        <!-- bar fill -->
-        <rect x="0" y="38" width="51" height="4" rx="2" fill="#0076A8"/>
-      </g>
-    
-      <!-- row PLpgSQL -->
-      <g transform="translate(28, 454)">
-        <!-- icon bg -->
-        <rect x="0" y="6" width="26" height="26" rx="7" fill="#0d1525"/>
-        <svg x="0" y="6" width="26" height="26" viewBox="0 0 128 128"><g><g transform="scale(5.3333)"><path fill="#4169E1" d="M23.5594 14.7228a.5269.5269 0 0 0-.0563-.1191c-.139-.2632-.4768-.3418-1.0074-.2321-1.6533.3411-2.2935.1312-2.5256-.0191 1.342-2.0482 2.445-4.522 3.0411-6.8297.2714-1.0507.7982-3.5237.1222-4.7316a1.5641 1.5641 0 0 0-.1509-.235C21.6931.9086 19.8007.0248 17.5099.0005c-1.4947-.0158-2.7705.3461-3.1161.4794a9.449 9.449 0 0 0-.5159-.0816 8.044 8.044 0 0 0-1.3114-.1278c-1.1822-.0184-2.2038.2642-3.0498.8406-.8573-.3211-4.7888-1.645-7.2219.0788C.9359 2.1526.3086 3.8733.4302 6.3043c.0409.818.5069 3.334 1.2423 5.7436.4598 1.5065.9387 2.7019 1.4334 3.582.553.9942 1.1259 1.5933 1.7143 1.7895.4474.1491 1.1327.1441 1.8581-.7279.8012-.9635 1.5903-1.8258 1.9446-2.2069.4351.2355.9064.3625 1.39.3772a.0569.0569 0 0 0 .0004.0041 11.0312 11.0312 0 0 0-.2472.3054c-.3389.4302-.4094.5197-1.5002.7443-.3102.064-1.1344.2339-1.1464.8115-.0025.1224.0329.2309.0919.3268.2269.4231.9216.6097 1.015.6331 1.3345.3335 2.5044.092 3.3714-.6787-.017 2.231.0775 4.4174.3454 5.0874.2212.5529.7618 1.9045 2.4692 1.9043.2505 0 .5263-.0291.8296-.0941 1.7819-.3821 2.5557-1.1696 2.855-2.9059.1503-.8707.4016-2.8753.5388-4.1012.0169-.0703.0357-.1207.057-.1362.0007-.0005.0697-.0471.4272.0307a.3673.3673 0 0 0 .0443.0068l.2539.0223.0149.001c.8468.0384 1.9114-.1426 2.5312-.4308.6438-.2988 1.8057-1.0323 1.5951-1.6698z"/></g></g></svg>
-        
-
-        <!-- lang name -->
-        <text x="34" y="20" font-family="'JetBrains Mono',monospace" font-size="12" font-weight="600" fill="#e8eaf0">PLpgSQL</text>
-
-        <!-- tag -->
-        <rect x="34" y="24" width="23" height="12" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
-        <text x="45.5" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">DB</text>
-
-        <!-- pct -->
-        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">7%</text>
-
-        <!-- bar track -->
-        <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
-        <!-- bar fill -->
-        <rect x="0" y="38" width="51" height="4" rx="2" fill="#4169E1"/>
-      </g>
-    
-      <!-- row PHP -->
-      <g transform="translate(28, 506)">
-        <!-- icon bg -->
-        <rect x="0" y="6" width="26" height="26" rx="7" fill="#1a1528"/>
-        <svg x="0" y="6" width="26" height="26" viewBox="0 0 128 128"><g><g transform="scale(5.3333)"><path fill="#777BB4" d="M7.01 10.207h-.944l-.515 2.648h.838c.556 0 .97-.105 1.242-.314.272-.21.455-.559.55-1.049.092-.47.05-.802-.124-.995-.175-.193-.523-.29-1.047-.29zM12 5.688C5.373 5.688 0 8.514 0 12s5.373 6.313 12 6.313S24 15.486 24 12c0-3.486-5.373-6.312-12-6.312zm-3.26 7.451c-.261.25-.575.438-.917.551-.336.108-.765.164-1.285.164H5.357l-.327 1.681H3.652l1.23-6.326h2.65c.797 0 1.378.209 1.744.628.366.418.476 1.002.33 1.752a2.836 2.836 0 0 1-.305.847c-.143.255-.33.49-.561.703zm4.024.715l.543-2.799c.063-.318.039-.536-.068-.651-.107-.116-.336-.174-.687-.174H11.46l-.704 3.625H9.388l1.23-6.327h1.367l-.327 1.682h1.218c.767 0 1.295.134 1.586.401s.378.7.263 1.299l-.572 2.944h-1.389zm7.597-2.265a2.782 2.782 0 0 1-.305.847c-.143.255-.33.49-.561.703a2.44 2.44 0 0 1-.917.551c-.336.108-.765.164-1.286.164h-1.18l-.327 1.682h-1.378l1.23-6.326h2.649c.797 0 1.378.209 1.744.628.366.417.477 1.001.331 1.751zM17.766 10.207h-.943l-.516 2.648h.838c.557 0 .971-.105 1.242-.314.272-.21.455-.559.551-1.049.092-.47.049-.802-.125-.995s-.524-.29-1.047-.29z"/></g></g></svg>
-        
-
-        <!-- lang name -->
-        <text x="34" y="20" font-family="'JetBrains Mono',monospace" font-size="12" font-weight="600" fill="#e8eaf0">PHP</text>
-
-        <!-- tag -->
-        <rect x="34" y="24" width="29.5" height="12" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
-        <text x="48.75" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">WEB</text>
-
-        <!-- pct -->
-        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">7%</text>
-
-        <!-- bar track -->
-        <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
-        <!-- bar fill -->
-        <rect x="0" y="38" width="51" height="4" rx="2" fill="#777BB4"/>
+        <rect x="0" y="38" width="94" height="4" rx="2" fill="#3572A5"/>
       </g>
     
       <!-- row Shell -->
-      <g transform="translate(28, 558)">
+      <g transform="translate(28, 350)">
         <!-- icon bg -->
         <rect x="0" y="6" width="26" height="26" rx="7" fill="#0a1a0a"/>
         <svg x="0" y="6" width="26" height="26" viewBox="0 0 128 128"><g><g transform="scale(5.3333)"><path fill="#4EAA25" d="M21.038 4.9l-7.577-4.498C13.009.134 12.505 0 12 0c-.505 0-1.009.134-1.462.403L2.961 4.9C2.057 5.437 1.5 6.429 1.5 7.503v8.995c0 1.073.557 2.066 1.462 2.603l7.577 4.497C10.991 23.866 11.495 24 12 24c.505 0 1.009-.134 1.461-.402l7.577-4.497c.904-.537 1.462-1.529 1.462-2.603V7.503C22.5 6.429 21.943 5.437 21.038 4.9zM15.17 18.946l.013.646c.001.078-.05.167-.111.198l-.383.22c-.061.031-.111-.007-.112-.085l-.007-.635c-.328.136-.66.169-.872.084-.04-.016-.057-.075-.041-.142l.139-.584c.011-.046.036-.092.069-.121.012-.011.024-.02.036-.026.022-.011.043-.014.062-.006.229.077.521.041.802-.101.357-.181.596-.545.592-.907-.003-.328-.181-.465-.613-.468-.55.001-1.064-.107-1.072-.917-.007-.667.34-1.361.889-1.8l-.007-.652c-.001-.08.048-.168.111-.2l.37-.236c.061-.031.111.007.112.087l.006.653c.273-.109.511-.138.726-.088.047.012.067.076.048.151l-.144.578c-.011.044-.036.088-.065.116-.012.012-.025.021-.038.028-.019.01-.038.013-.057.009-.098-.022-.332-.073-.699.113-.385.195-.52.53-.517.778.003.297.155.387.681.396.7.012 1.003.318 1.01 1.023-.004.72-.373 1.464-.939 1.919zm3.973-1.087c0 .06-.008.116-.058.145l-1.916 1.164c-.05.029-.09.004-.09-.056v-.494c0-.06.037-.093.087-.122l1.887-1.129c.05-.029.09-.004.09.056v.436zm1.316-11.062l-7.168 4.427c-.894.523-1.553 1.109-1.553 2.187v8.833c0 .645.26 1.063.66 1.184-.131.023-.264.039-.398.039-.42 0-.833-.114-1.197-.33L3.226 18.64c-.741-.44-1.201-1.261-1.201-2.142V7.503c0-.881.46-1.702 1.201-2.142l7.577-4.498c.363-.216.777-.33 1.197-.33.419 0 .833.114 1.197.33l7.577 4.498c.624.371 1.046 1.013 1.164 1.732-.252-.536-.818-.682-1.479-.296z"/></g></g></svg>
@@ -248,12 +156,104 @@
         <text x="55.25" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">SHELL</text>
 
         <!-- pct -->
-        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">7%</text>
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">13%</text>
 
         <!-- bar track -->
         <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
         <!-- bar fill -->
-        <rect x="0" y="38" width="51" height="4" rx="2" fill="#4EAA25"/>
+        <rect x="0" y="38" width="94" height="4" rx="2" fill="#4EAA25"/>
+      </g>
+    
+      <!-- row Java -->
+      <g transform="translate(28, 402)">
+        <!-- icon bg -->
+        <rect x="0" y="6" width="26" height="26" rx="7" fill="#1a1010"/>
+        <svg x="0" y="6" width="26" height="26" viewBox="0 0 128 128"><g><path fill="#0074BD" d="M47.617 98.12s-4.767 2.774 3.397 3.71c9.892 1.13 14.947.968 25.845-1.092 0 0 2.871 1.795 6.873 3.351-24.439 10.47-55.308-.607-36.115-5.969zM44.629 84.455s-5.348 3.959 2.823 4.805c10.567 1.091 18.91 1.18 33.354-1.6 0 0 1.993 2.025 5.132 3.131-29.542 8.64-62.446.68-41.309-6.336z"/><path fill="#EA2D2E" d="M69.802 61.271c6.025 6.935-1.58 13.17-1.58 13.17s15.289-7.891 8.269-17.777c-6.559-9.215-11.587-13.792 15.635-29.58 0 .001-42.731 10.67-22.324 34.187z"/><path fill="#0074BD" d="M102.123 108.229s3.529 2.91-3.888 5.159c-14.102 4.272-58.706 5.56-71.094.171-4.451-1.938 3.899-4.625 6.526-5.192 2.739-.593 4.303-.485 4.303-.485-4.953-3.487-32.013 6.85-13.743 9.815 49.821 8.076 90.817-3.637 77.896-9.468zM49.921 70.294s-22.686 5.389-8.033 7.348c6.188.828 18.518.638 30.011-.326 9.386-.789 18.813-2.474 18.813-2.474s-3.308 1.419-5.704 3.053c-23.042 6.061-67.544 3.238-54.731-2.958 10.832-5.239 19.644-4.643 19.644-4.643zM90.609 93.041c23.421-12.167 12.591-23.86 5.032-22.285-1.848.385-2.677.72-2.677.72s.688-1.079 2-1.543c14.953-5.255 26.451 15.503-4.823 23.725 0-.002.359-.327.468-.617z"/><path fill="#EA2D2E" d="M76.491 1.587S89.459 14.563 64.188 34.51c-20.266 16.006-4.621 25.13-.007 35.559-11.831-10.673-20.509-20.07-14.688-28.815C58.041 28.42 81.722 22.195 76.491 1.587z"/><path fill="#0074BD" d="M52.214 126.021c22.476 1.437 57-.8 57.817-11.436 0 0-1.571 4.032-18.577 7.231-19.186 3.612-42.854 3.191-56.887.874 0 .001 2.875 2.381 17.647 3.331z"/></g></svg>
+        
+
+        <!-- lang name -->
+        <text x="34" y="20" font-family="'JetBrains Mono',monospace" font-size="12" font-weight="600" fill="#e8eaf0">Java</text>
+
+        <!-- tag -->
+        <rect x="34" y="24" width="29.5" height="12" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+        <text x="48.75" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">OOP</text>
+
+        <!-- pct -->
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">6%</text>
+
+        <!-- bar track -->
+        <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
+        <!-- bar fill -->
+        <rect x="0" y="38" width="43" height="4" rx="2" fill="#f89820"/>
+      </g>
+    
+      <!-- row MATLAB -->
+      <g transform="translate(28, 454)">
+        <!-- icon bg -->
+        <rect x="0" y="6" width="26" height="26" rx="7" fill="#001528"/>
+        <svg x="0" y="6" width="26" height="26" viewBox="0 0 128 128"><g><path fill="#4499dd" d="M8 70.2l31.879-12.88a82.62 82.62 0 0110.883-11.8c2.636-1.399 7.597-.641 16.68-11.918 8.796-11 11.597-20.403 15.718-20.403 6.52 0 11.32 14.082 18.602 35.403A461.75 461.75 0 00120 96.48c-7.602-7.082-14.078-14.718-21.48-14.52-6.88.161-14.52 8.321-22.88 18.802C69 109.16 60.2 114.922 56.763 114.8c0 0-8.883-25.121-16.32-29.2a10.563 10.563 0 00-9.563.797L8 70.16zm0 0"/><path fill="#aaddee" d="M79.2 16.078c-2.68 3.602-5.92 10.203-11.76 17.524-9.082 11.277-14 10.52-16.68 11.918a78.673 78.673 0 00-10.882 11.8l13.2 9.64C64.28 51.68 70.28 35.122 74.96 24.399a54.649 54.649 0 014.238-8.32zm0 0"/><path fill="#e87030" d="M83.2 13.2c-8.72 0-14.68 45.921-46.88 71.562 9.04-1.48 16.88 20.957 20.48 30.039 16-2.723 28.802-33.32 41.72-32.84 7.402.277 13.878 7.437 21.48 14.52C102.64 60 94.52 13.198 83.2 13.198zm0 0"/></g></svg>
+        
+
+        <!-- lang name -->
+        <text x="34" y="20" font-family="'JetBrains Mono',monospace" font-size="12" font-weight="600" fill="#e8eaf0">MATLAB</text>
+
+        <!-- tag -->
+        <rect x="34" y="24" width="36" height="12" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+        <text x="52" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">MATH</text>
+
+        <!-- pct -->
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">6%</text>
+
+        <!-- bar track -->
+        <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
+        <!-- bar fill -->
+        <rect x="0" y="38" width="43" height="4" rx="2" fill="#0076A8"/>
+      </g>
+    
+      <!-- row PLpgSQL -->
+      <g transform="translate(28, 506)">
+        <!-- icon bg -->
+        <rect x="0" y="6" width="26" height="26" rx="7" fill="#0d1525"/>
+        <svg x="0" y="6" width="26" height="26" viewBox="0 0 128 128"><g><g transform="scale(5.3333)"><path fill="#4169E1" d="M23.5594 14.7228a.5269.5269 0 0 0-.0563-.1191c-.139-.2632-.4768-.3418-1.0074-.2321-1.6533.3411-2.2935.1312-2.5256-.0191 1.342-2.0482 2.445-4.522 3.0411-6.8297.2714-1.0507.7982-3.5237.1222-4.7316a1.5641 1.5641 0 0 0-.1509-.235C21.6931.9086 19.8007.0248 17.5099.0005c-1.4947-.0158-2.7705.3461-3.1161.4794a9.449 9.449 0 0 0-.5159-.0816 8.044 8.044 0 0 0-1.3114-.1278c-1.1822-.0184-2.2038.2642-3.0498.8406-.8573-.3211-4.7888-1.645-7.2219.0788C.9359 2.1526.3086 3.8733.4302 6.3043c.0409.818.5069 3.334 1.2423 5.7436.4598 1.5065.9387 2.7019 1.4334 3.582.553.9942 1.1259 1.5933 1.7143 1.7895.4474.1491 1.1327.1441 1.8581-.7279.8012-.9635 1.5903-1.8258 1.9446-2.2069.4351.2355.9064.3625 1.39.3772a.0569.0569 0 0 0 .0004.0041 11.0312 11.0312 0 0 0-.2472.3054c-.3389.4302-.4094.5197-1.5002.7443-.3102.064-1.1344.2339-1.1464.8115-.0025.1224.0329.2309.0919.3268.2269.4231.9216.6097 1.015.6331 1.3345.3335 2.5044.092 3.3714-.6787-.017 2.231.0775 4.4174.3454 5.0874.2212.5529.7618 1.9045 2.4692 1.9043.2505 0 .5263-.0291.8296-.0941 1.7819-.3821 2.5557-1.1696 2.855-2.9059.1503-.8707.4016-2.8753.5388-4.1012.0169-.0703.0357-.1207.057-.1362.0007-.0005.0697-.0471.4272.0307a.3673.3673 0 0 0 .0443.0068l.2539.0223.0149.001c.8468.0384 1.9114-.1426 2.5312-.4308.6438-.2988 1.8057-1.0323 1.5951-1.6698z"/></g></g></svg>
+        
+
+        <!-- lang name -->
+        <text x="34" y="20" font-family="'JetBrains Mono',monospace" font-size="12" font-weight="600" fill="#e8eaf0">PLpgSQL</text>
+
+        <!-- tag -->
+        <rect x="34" y="24" width="23" height="12" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+        <text x="45.5" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">DB</text>
+
+        <!-- pct -->
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">6%</text>
+
+        <!-- bar track -->
+        <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
+        <!-- bar fill -->
+        <rect x="0" y="38" width="43" height="4" rx="2" fill="#4169E1"/>
+      </g>
+    
+      <!-- row PHP -->
+      <g transform="translate(28, 558)">
+        <!-- icon bg -->
+        <rect x="0" y="6" width="26" height="26" rx="7" fill="#1a1528"/>
+        <svg x="0" y="6" width="26" height="26" viewBox="0 0 128 128"><g><g transform="scale(5.3333)"><path fill="#777BB4" d="M7.01 10.207h-.944l-.515 2.648h.838c.556 0 .97-.105 1.242-.314.272-.21.455-.559.55-1.049.092-.47.05-.802-.124-.995-.175-.193-.523-.29-1.047-.29zM12 5.688C5.373 5.688 0 8.514 0 12s5.373 6.313 12 6.313S24 15.486 24 12c0-3.486-5.373-6.312-12-6.312zm-3.26 7.451c-.261.25-.575.438-.917.551-.336.108-.765.164-1.285.164H5.357l-.327 1.681H3.652l1.23-6.326h2.65c.797 0 1.378.209 1.744.628.366.418.476 1.002.33 1.752a2.836 2.836 0 0 1-.305.847c-.143.255-.33.49-.561.703zm4.024.715l.543-2.799c.063-.318.039-.536-.068-.651-.107-.116-.336-.174-.687-.174H11.46l-.704 3.625H9.388l1.23-6.327h1.367l-.327 1.682h1.218c.767 0 1.295.134 1.586.401s.378.7.263 1.299l-.572 2.944h-1.389zm7.597-2.265a2.782 2.782 0 0 1-.305.847c-.143.255-.33.49-.561.703a2.44 2.44 0 0 1-.917.551c-.336.108-.765.164-1.286.164h-1.18l-.327 1.682h-1.378l1.23-6.326h2.649c.797 0 1.378.209 1.744.628.366.417.477 1.001.331 1.751zM17.766 10.207h-.943l-.516 2.648h.838c.557 0 .971-.105 1.242-.314.272-.21.455-.559.551-1.049.092-.47.049-.802-.125-.995s-.524-.29-1.047-.29z"/></g></g></svg>
+        
+
+        <!-- lang name -->
+        <text x="34" y="20" font-family="'JetBrains Mono',monospace" font-size="12" font-weight="600" fill="#e8eaf0">PHP</text>
+
+        <!-- tag -->
+        <rect x="34" y="24" width="29.5" height="12" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+        <text x="48.75" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">WEB</text>
+
+        <!-- pct -->
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">6%</text>
+
+        <!-- bar track -->
+        <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
+        <!-- bar fill -->
+        <rect x="0" y="38" width="43" height="4" rx="2" fill="#777BB4"/>
       </g>
     
       <!-- row Dockerfile -->
@@ -271,12 +271,12 @@
         <text x="58.5" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">DEVOPS</text>
 
         <!-- pct -->
-        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">7%</text>
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">6%</text>
 
         <!-- bar track -->
         <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
         <!-- bar fill -->
-        <rect x="0" y="38" width="51" height="4" rx="2" fill="#2496ED"/>
+        <rect x="0" y="38" width="43" height="4" rx="2" fill="#2496ED"/>
       </g>
     
       <!-- row CMake -->
@@ -294,12 +294,12 @@
         <text x="55.25" y="33.5" font-family="'JetBrains Mono',monospace" font-size="7.5" font-weight="600" fill="#4a5068" text-anchor="middle" letter-spacing="1">BUILD</text>
 
         <!-- pct -->
-        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">7%</text>
+        <text x="724" y="20" font-family="'JetBrains Mono',monospace" font-size="11" font-weight="700" fill="#e8eaf0" text-anchor="end">6%</text>
 
         <!-- bar track -->
         <rect x="0" y="38" width="724" height="4" rx="2" fill="rgba(255,255,255,0.05)"/>
         <!-- bar fill -->
-        <rect x="0" y="38" width="51" height="4" rx="2" fill="#064F8C"/>
+        <rect x="0" y="38" width="43" height="4" rx="2" fill="#064F8C"/>
       </g>
     
 
@@ -308,6 +308,6 @@
 
   <!-- footer -->
   <circle cx="33" cy="752" r="3" fill="#7cffd4" opacity="0.9"/>
-  <text x="42" y="756" font-family="'JetBrains Mono',monospace" font-size="9" fill="#4a5068">329 contributions · 2026</text>
+  <text x="42" y="756" font-family="'JetBrains Mono',monospace" font-size="9" fill="#4a5068">340 contributions · 2026</text>
   <text x="752" y="756" font-family="'JetBrains Mono',monospace" font-size="9" fill="#7cffd4" text-anchor="end" opacity="0.7">github/samueeloliveiraa →</text>
 </svg>
